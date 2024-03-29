@@ -1,3 +1,5 @@
+# Quelques attention/bugs à fixer:
+
 - Problème logique lors de l'ajout/suppression de caractères : en général, le programme lira chaque ligne pour voir si cette ligne contient suffisamment de caractères avec 
 la ligne équivalente dans le premier fichier, mais il ne vérifie pas quels caractères sont modifiés/supprimés.
 
@@ -6,5 +8,12 @@ la ligne équivalente dans le premier fichier, mais il ne vérifie pas quels car
 - Il faut avoir besoin de modifier que seulement 2 fenêtres sont nécessaires dans l'application. (pas obligatoire)
 
 - Il faut comprendre comment le libreoffice fonctionne pour le probleme d'accepter/ de rejecter ce qu'on a modifié/ supprimé.
+
+# Quelques consgines ne pas encore faire:
+- Éditer librement le texte comportant les modifications afin de formuler des contrepropositions. Les contre-propositions doivent être distinguables des autres types de
+modifications.
+- Sauvegarder au format TXT le fichier résultant du travail effectué sur les modifications
+(acceptions, refus et contre-propositions).
+
 
 - 
